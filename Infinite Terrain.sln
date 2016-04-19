@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite Terrain.CSharp.Plugins", "Infinite Terrain.CSharp.Plugins.csproj", "{5071A82C-2351-B0C3-A3ED-DB0D7C8F5A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite Terrain.CSharp", "Infinite Terrain.CSharp.csproj", "{2E1B279F-AC1F-F686-BB57-2F6D6FB8223D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite Terrain.CSharp.Editor", "Infinite Terrain.CSharp.Editor.csproj", "{C3BCA230-46D1-9606-09F6-B888BE67936E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5071A82C-2351-B0C3-A3ED-DB0D7C8F5A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5071A82C-2351-B0C3-A3ED-DB0D7C8F5A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5071A82C-2351-B0C3-A3ED-DB0D7C8F5A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5071A82C-2351-B0C3-A3ED-DB0D7C8F5A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1B279F-AC1F-F686-BB57-2F6D6FB8223D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1B279F-AC1F-F686-BB57-2F6D6FB8223D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1B279F-AC1F-F686-BB57-2F6D6FB8223D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1B279F-AC1F-F686-BB57-2F6D6FB8223D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BCA230-46D1-9606-09F6-B888BE67936E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BCA230-46D1-9606-09F6-B888BE67936E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BCA230-46D1-9606-09F6-B888BE67936E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BCA230-46D1-9606-09F6-B888BE67936E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
